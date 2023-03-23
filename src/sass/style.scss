@@ -1,0 +1,9 @@
+@import "base/reset";
+@import "base/variator";
+
+.container{
+    max-width: 950px;
+    margin: 0 auto;
+}
+@import "blocks/button";
+@import "blocks/header";

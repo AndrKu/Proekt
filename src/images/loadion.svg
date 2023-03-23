@@ -1,0 +1,6 @@
+<svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="5.36719" y1="0.5" x2="5.36719" y2="5.98878" stroke="#AAAAAA" stroke-linecap="square"/>
+<line x1="3.62605" y1="4.93164" x2="5.28552" y2="6.59111" stroke="#AAAAAA" stroke-linecap="square"/>
+<line x1="0.5" y1="-0.5" x2="2.84684" y2="-0.5" transform="matrix(-0.707107 0.707107 0.707107 0.707107 7.65234 4.93164)" stroke="#AAAAAA" stroke-linecap="square"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.2157 5.84961V5.34961L10.2157 5.34961V5.84961V7.99796H9.95895H1L1 5.85014V5.35014L1.5948e-07 5.35014L1.37625e-07 5.85014L2.18552e-08 8.4986L0 8.9986H1V8.99796H9.95895H10.2157V8.99808H11.2157V8.49808V5.84961Z" fill="#AAAAAA"/>
+</svg>
