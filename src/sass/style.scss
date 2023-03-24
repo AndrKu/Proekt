@@ -1,9 +1,14 @@
 @import "base/reset";
 @import "base/variator";
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .container{
     max-width: 950px;
     margin: 0 auto;
 }
+
+@import "blocks/promo";
 @import "blocks/button";
-@import "blocks/header";
+@import "blocks/header.scss";
+@import "blocks/section-icon";
